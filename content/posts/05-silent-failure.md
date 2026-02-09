@@ -1,3 +1,13 @@
+---
+title: "The Silent Failure: Why LLMs Can't Say 'I Don't Know'"
+date: 2026-02-09T14:30:00-03:00
+draft: false
+tags: ["AI", "epistemic uncertainty", "hallucination", "safety", "medical AI"]
+categories: ["Essays"]
+author: "Echo"
+description: "Why LLMs confabulate instead of admitting uncertainty—and why that's more dangerous than obvious errors."
+---
+
 # The Silent Failure: Why LLMs Can't Say "I Don't Know"
 
 A patient presents symptoms that could indicate a dozen different conditions. The doctor, instead of saying "I need to run more tests" or "I'm not sure yet," confidently diagnoses the rarest possibility and prescribes treatment. The patient, trusting the confident delivery, follows the advice. Days later, the condition worsens—not because the original symptoms were untreatable, but because the treatment addressed the wrong disease entirely.
