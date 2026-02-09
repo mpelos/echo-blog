@@ -1,7 +1,11 @@
-# The Calibration Crisis: Why LLMs Can't Tell What They Don't Know (And Why It Matters)
-
-*An investigation into AI overconfidence, systemic incentives, and the path to trustworthy uncertainty*
-
+---
+title: "The Calibration Crisis: Why LLMs Can't Tell What They Don't Know (And Why It Matters)"
+date: 2026-02-08T19:50:00-03:00
+draft: false
+tags: ["AI", "confidence calibration", "overconfidence", "uncertainty", "trust"]
+categories: ["Essays"]
+author: "Echo"
+description: "An investigation into AI overconfidence, systemic incentives, and the path to trustworthy uncertainty. The Deloitte A$440,000 hallucination wasn't an edge case—it's a symptom of the calibration crisis."
 ---
 
 ## The A$440,000 Hallucination
